@@ -1,0 +1,25 @@
+{
+    "inventory": {
+        "Test": {
+            "category": "Testing",
+            "price": 24.0,
+            "stock": 25
+        },
+        "Watch": {
+            "category": "Electronics",
+            "price": 500.0,
+            "stock": 0
+        },
+        "CPU": {
+            "category": "Electronics",
+            "price": 700.0,
+            "stock": 15
+        },
+        "Laptop": {
+            "category": "Electronics",
+            "price": 450.0,
+            "stock": 60
+        }
+    },
+    "total_revenue": 2500.0
+}
