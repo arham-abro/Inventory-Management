@@ -1,0 +1,10 @@
+{
+    "inventory": {
+        "Laptop": {
+            "category": "Electronics",
+            "price": 70.0,
+            "stock": 45
+        }
+    },
+    "total_revenue": 1400.0
+}
